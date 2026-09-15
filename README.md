@@ -18,13 +18,15 @@ I build practical digital tools, analyse data, and turn stakeholder needs into w
 | Project | Description |
 |--------|-------------|
 | **[SnackSizzle](https://github.com/YOUR_USERNAME/snacksizzle)** | Full-stack web app for browsing and ordering snacks, with a clean UI and core product flow|
-| **[POV Sales Intelligence Tool]( https://masudmo987.github.io/Strideshift-POV-Sales-Intelligence-Tool/)** | Batch-processing tool that automated multi-account analysis and improved consistency of outputs|### POV Sales Intelligence Tool
+| **[POV Sales Intelligence Tool]( https://masudmo987.github.io/Strideshift-POV-Sales-Intelligence-Tool/)** 
+Batch-processing tool that automated multi-account analysis and improved consistency of outputs|### POV Sales Intelligence Tool
 A sales-enablement tool that automates the creation of account-specific "Point-of-View" reports — the kind of document a sales rep uses to walk into a conversation already speaking to a prospect's actual priorities instead of a generic pitch.
 
 - **Single or batch mode**: generate one report manually, or upload a spreadsheet of accounts/personas and generate the whole set in one run
 - **Multiple report angles per account**: Industry, Company, Persona, and role-specific variants (Sales, Marketing, Executives, Tenders, Bid)
 - **Structured, branded Word output**: each report follows a consistent format — outcome deep-dives, functional/emotional jobs-to-be-done, pain points, solution mapping, and success metrics — generated as downloadable .docx files, bundled into a single .zip for batch runs
-- **Built with**: vanilla JavaScript, docx.js (Word generation), SheetJS (spreadsheet parsing), and JSZip (bulk export)|
+- **Built with**: vanilla JavaScript, docx.js (Word generation), SheetJS (spreadsheet parsing), and JSZip (bulk export)
+  
 | **[CRUD App](https://github.com/YOUR_USERNAME/crud)** | Web application demonstrating Create, Read, Update and Delete operations with a structured data layer|
 
 ---
