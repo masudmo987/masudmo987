@@ -18,8 +18,7 @@ I build practical digital tools, analyse data, and turn stakeholder needs into w
 | Project | Description |
 |--------|-------------|
 | **[SnackSizzle](https://github.com/YOUR_USERNAME/snacksizzle)** | Full-stack web app for browsing and ordering snacks, with a clean UI and core product flow|
-| **[POV Sales Intelligence Tool]( https://masudmo987.github.io/Strideshift-POV-Sales-Intelligence-Tool/)** | Batch-processing tool that automated multi-account analysis and improved consistency of outputs
-### POV Sales Intelligence Tool
+| **[POV Sales Intelligence Tool]( https://masudmo987.github.io/Strideshift-POV-Sales-Intelligence-Tool/)** | Batch-processing tool that automated multi-account analysis and improved consistency of outputs|### POV Sales Intelligence Tool
 A sales-enablement tool that automates the creation of account-specific "Point-of-View" reports — the kind of document a sales rep uses to walk into a conversation already speaking to a prospect's actual priorities instead of a generic pitch.
 
 - **Single or batch mode**: generate one report manually, or upload a spreadsheet of accounts/personas and generate the whole set in one run
